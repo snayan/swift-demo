@@ -6,5 +6,5 @@
 * 在iOS里创建一个label和一个按钮，且处理了按钮事件
 * 创建了一个Timer
 
-![](.\screen\demo1.jpg)
+![](https://github.com/snayan/swift-demo/blob/master/screen/demo1.jpg)
 
