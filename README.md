@@ -6,5 +6,12 @@
 * 在iOS里创建一个label和一个按钮，且处理了按钮事件
 * 创建了一个Timer
 
-![](\screen\demo1.jpg)
+![](.\screen\demo1.jpg)
 
+### [demo2](https://github.com/snayan/swift-demo/tree/master/demo2)
+写了一个Tabbar，可以切换不同是视图
+
+* 实现了一个UITabBarController,实现了选择不同tab的代理
+* 动态不同视图的背景颜色
+
+![](.\screen\demo2.jpg)
