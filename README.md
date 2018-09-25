@@ -24,3 +24,10 @@
 * UIScrollView的滚动展示
 
 ![](https://github.com/snayan/swift-demo/blob/master/screen/demo3.jpg)
+
+### [demo4](https://github.com/snayan/swift-demo/tree/master/demo4)
+实现一个记数器，通过add按钮可以加1，通过sub按钮可以减1
+
+* 实现绑定按钮事件
+
+![](https://github.com/snayan/swift-demo/blob/master/screen/demo4.jpg)
