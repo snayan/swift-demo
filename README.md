@@ -31,3 +31,13 @@
 * 实现绑定按钮事件
 
 ![](https://github.com/snayan/swift-demo/blob/master/screen/demo4.jpg)
+
+### [demo5](https://github.com/snayan/swift-demo/tree/master/demo5)
+实现了一个菜单列表视图，可以添加，编辑，删除列表项
+
+* 使用storyboard创建视图
+* 使用IBAction定义事件，使用IBOutlet定义 View的引用对象
+* 自定义view
+* 自定义ViewController
+
+![](https://github.com/snayan/swift-demo/blob/master/screen/demo5.jpg)
